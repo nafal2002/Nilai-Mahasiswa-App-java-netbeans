@@ -1,0 +1,12 @@
+DATA NILAI MAHASISWA 
+nama 	 : NAFAL M.F
+nim 	 : 312110457
+kelas 	 : TI.21.A.2
+============================================== 
+UTS 	 : 99
+TM  	 : 99
+UAS 	 : 99
+=============================================
+ 	 Rata-Rata : 99.0
+	 Hasil : LULUS
+	 Grade : A

@@ -1,0 +1,10 @@
+DATA NILAI MAHASISWA 
+nafal mf
+============================================== 
+UTS 	 : 99
+TM  	 : 99
+UAS 	 : 99
+=============================================
+ 	 Rata-Rata : 99.0
+	 Hasil : LULUS
+	 Grade : A
