@@ -7,7 +7,7 @@ okeh sebelumnyah perkenal kan dulu nama saya hehhe biar kenal pepatah berkata ta
 Aplikasi ini dibuat untuk membantu pengelolaan nilai mahasiswa di suatu institusi pendidikan. Aplikasi dapat digunakan untuk menambahkan data mahasiswa, menginput nilai, dan menghitung rata-rata nilai.
 okeh .. temen-temen mungkin di bawah ini adalah salah satu hasil nyah !!
 
-![Screenshot Aplikasi](images/app.png)
+
 
 ## Fitur
 
@@ -17,6 +17,11 @@ okeh .. temen-temen mungkin di bawah ini adalah salah satu hasil nyah !!
 
 - **Hitung Rata-rata Nilai**: Hitung otomatis rata-rata nilai mahasiswa untuk setiap mata kuliah.
 
+### MENAMPILAN GUI YAH GUYS MODIF 
+![Screenshot Aplikasi](images/app.PNG)
+
+## MENAMPILAN LAPORAN
+![Screenshot Aplikasi](images/laporan.PNG)
 ## Teknologi
 
 Aplikasi ini dibangun menggunakan Java dan dikembangkan menggunakan IDE NetBeans. Berikut adalah beberapa teknologi dan konsep yang digunakan:
